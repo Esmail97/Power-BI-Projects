@@ -1,1 +1,1 @@
-# Power-BI-Prijects
+# Power-BI-Projects
